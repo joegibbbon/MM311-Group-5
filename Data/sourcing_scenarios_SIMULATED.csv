@@ -1,0 +1,4 @@
+scenario,demand_kg,budget_gbp,minimum_weighted_quality,deadline_days,maximum_supplier_share,unavailable_supplier
+Base,3000,24000,83.1,28,0.4,None
+Demand increase,3600,28800,83.1,28,0.4,None
+S01 unavailable,3000,24000,83.1,28,0.4,S01
